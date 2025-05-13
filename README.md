@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there, I'm Walker! 
 
-<!--
-**walker89/walker89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 From heavy equipment to ethical hacking — I'm a career changer building my way into cybersecurity, one script and exploit at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- Offensive Security / Red Teaming
+- Python scripting and automation
+- TryHackMe / HackTheBox labs
+- Cloud Security (AWS)
+- Bug Bounties & Web App Exploitation
+
+---
+
+## 🔍 Current Projects
+- 🛠️ [Red Team Journey](https://github.com/walker89/red-team-journey): My public portfolio of scripts, labs, and write-ups
+- 🧪 Building tools like mini port scanners and recon helpers
+- 📓 Documenting THM walkthroughs and lessons learned
+
+---
+
+## 🕹️ Fun Facts
+- 🎮 Game dev hobbyist — C++, Ureal Engine, and memory management nerd
+- 🤖 Love experimenting with AI, ML, and hacking tool automation
+- 🚜 Current logistics/heavy equipment supervisor — risk & process thinker
+
+---
+
+## 📫 Reach Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 📬 Email: your.email@example.com
+
+---
+
+### ⚡ Motto
+> *"From dirt roads to red teams. Document the grind, build the tools, earn the shell."*
