@@ -27,9 +27,8 @@
 
 ---
 
-## 📫 Reach Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- 📬 Email: your.email@example.com
+## 📫 Reach Me  
+- 📬 Email: Walker.chastin@gmail.com
 
 ---
 
