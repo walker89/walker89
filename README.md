@@ -1,36 +1,41 @@
-# 👋 Hey there, I'm Chastin! 
 
-🔧 From heavy equipment to ethical hacking — I'm a career changer building my way into cybersecurity, one script and exploit at a time.
+# 👋 Hey, I'm Chastin
+
+🤖 Transitioning into ML & AI Engineering — building real projects, learning in public, and leveraging a cybersecurity background to specialize in adversarial ML and AI security.
 
 ---
 
 ## 🧠 What I'm Learning
-- Offensive Security / Red Teaming
-- Python scripting and automation
-- TryHackMe / HackTheBox labs
-- Cloud Security (AWS)
-- Bug Bounties & Web App Exploitation
+
+- Machine Learning & Deep Learning (Hands-On ML — Aurélien Géron)
+- Python for ML: NumPy, Pandas, Scikit-learn
+- Computer Vision, LLMs, and Generative AI
+- FastAPI for model deployment
+- Unreal Engine 5 & Blender (hobby — horror game dev)
 
 ---
 
 ## 🔍 Current Projects
-- 🛠️ [Red Team Journey](https://github.com/walker89/red-team-journey): My public portfolio of scripts, labs, and write-ups
-- 🧪 Building tools like mini port scanners and recon helpers
-- 📓 Documenting THM walkthroughs and lessons learned
+
+- 🏢 **[ATS Yard Operations Center](https://github.com/walker89/ATS-yard-ops)** — React/Next.js operations dashboard built as a Monday.com replacement for a logistics company
+- ✈️ **Vitae Escapes AI Agents** — AI automation tools for a live travel agency
+- 🔭 **Deal Radar** — (in progress)
 
 ---
 
-## 🕹️ Fun Facts
-- 🎮 Game dev hobbyist — C++, Ureal Engine, and memory management nerd
-- 🤖 Love experimenting with AI, ML, and hacking tool automation
-- 🚜 Current logistics/heavy equipment supervisor — risk & process thinker
+## 🎯 Background
+
+- B.S. Cybersecurity
+- Logistics & operations supervisor (yard management, fleet tracking)
+- Self-taught ML engineer in progress
+- Hands-on learner — I build first, then go deeper
 
 ---
 
-## 📫 Reach Me  
-- 📬 Email: Walker.chastin@gmail.com
+## 📫 Reach Me
+
+📬 [Walker.chastin@gmail.com](mailto:Walker.chastin@gmail.com)
 
 ---
 
-### ⚡ Motto
-> *"From dirt roads to red teams. Document the grind, build the tools, earn the shell."*
+> *"From cybersecurity to machine learning — document the grind, ship the projects."*
